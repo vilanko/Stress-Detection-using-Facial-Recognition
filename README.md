@@ -1,7 +1,5 @@
 # Stress-Detection-using-Facial-Recognition
 
-
-Literature Study 
 Can stress be detected? 
 A general problem in stress detection is that the measurement of emotion is difficult. It is difficult to detect and report on these subjective states accurately given their short duration. There is also a possibility that some emotional experiences may be unconscious, which makes them impossible to measure. However, there has been research that has suggested possible connections between emotions and emotional states, such as depression, anxiety and stress. Negative emotions appear to be a sufficient, although not a necessary cause of physiological responses to stressors in laboratory stress studies. Stress was linked to increased negative emotions, such as anger, while positive emotions, such as happiness, were linked to an increased physiological ability to recover from chronic stress. 
  
